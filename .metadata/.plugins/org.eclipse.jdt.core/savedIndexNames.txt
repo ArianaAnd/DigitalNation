@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\Andri\Desktop\Andrisan_Ariana_proiect_final_spring\.metadata\.plugins\org.eclipse.jdt.core

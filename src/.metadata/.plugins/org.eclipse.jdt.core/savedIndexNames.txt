@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\Andri\Desktop\Andrisan_Ariana_proiect_final_spring\src\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index

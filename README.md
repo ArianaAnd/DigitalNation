@@ -1,2 +1,2 @@
 # DigitalNation
-E-commerce Website Spring Boot
+Registration/Login for + SQL database
